@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="74711" started-at="2019-02-08T06:26:04Z" finished-at="2019-02-08T06:27:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="74711" started-at="2019-02-08T06:26:04Z" finished-at="2019-02-08T06:27:18Z">
+      <class name="seleniumadavanced.seleniumday1.TestLoginDemoWebShop">
+        <test-method status="PASS" signature="testDemoWebShopLogin(java.lang.String, java.lang.String)[pri:0, instance:seleniumadavanced.seleniumday1.TestLoginDemoWebShop@475530b9]" name="testDemoWebShopLogin" duration-ms="26359" started-at="2019-02-08T06:26:05Z" data-provider="dp1" finished-at="2019-02-08T06:26:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[askmail@email.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDemoWebShopLogin -->
+        <test-method status="PASS" signature="testDemoWebShopLogin(java.lang.String, java.lang.String)[pri:0, instance:seleniumadavanced.seleniumday1.TestLoginDemoWebShop@475530b9]" name="testDemoWebShopLogin" duration-ms="31821" started-at="2019-02-08T06:26:31Z" data-provider="dp1" finished-at="2019-02-08T06:27:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[askmail@ymail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDemoWebShopLogin -->
+        <test-method status="PASS" signature="testDemoWebShopLogin(java.lang.String, java.lang.String)[pri:0, instance:seleniumadavanced.seleniumday1.TestLoginDemoWebShop@475530b9]" name="testDemoWebShopLogin" duration-ms="15599" started-at="2019-02-08T06:27:03Z" data-provider="dp1" finished-at="2019-02-08T06:27:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[askmail@kmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDemoWebShopLogin -->
+      </class> <!-- seleniumadavanced.seleniumday1.TestLoginDemoWebShop -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
